@@ -1,3 +1,3 @@
 # Meus-sites
- Pequenos progetos pessoais
+ Pequenos projetos pessoais
  
